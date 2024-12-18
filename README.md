@@ -35,11 +35,11 @@
 <div align="center">
   <h2>🚀 Github Commits</h2>
   <p>
-      This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous                improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!
+      This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous                improvement and collaborative development.
   </p>
   <p>---------------------------------------------------------------------------------------------------------</p>
 <p>
-    Esta sección destaca mi actividad diaria, mostrando los repositorios en los que actualmente estoy trabajando. Cada commit representa progreso o correcciones en proyectos en curso, reflejando mi compromiso con la mejora continua y el desarrollo colaborativo. ¡Sumérgete en los mensajes de los commits para conocer en qué he estado trabajando!
+    Esta sección destaca mi actividad diaria, mostrando los repositorios en los que actualmente estoy trabajando. Cada commit representa progreso o correcciones en proyectos en curso, reflejando mi compromiso con la mejora continua y el desarrollo colaborativo.
 </p>
   <img src="https://ghchart.rshah.org/ignaciotobiasgarciagodoy" alt="GitHub Contribution Graph" />
 </div>
