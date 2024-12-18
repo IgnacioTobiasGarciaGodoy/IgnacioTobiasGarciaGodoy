@@ -1,20 +1,31 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Nacho;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Nacho;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
-</div>
+  </div>
 
 <div align="center">
-    <h2>🚀 About Me</h2>
+    <h2>🚀 About Me / Acerca de mi</h2>
     <p>
-      My name is Ignacio García Godoy, and I am currently in the last semester of the Systems Analyst at ORT.
-      During my studies, I have had the opportunity to work with various tools and languages such as Java, HTML, CSS, .NET, SQL, among others. This variety of knowledge has allowed me to develop a solid and versatile foundation in programming and software development.
-      I consider myself a dedicated and committed individual, both academically and professionally.
+        My name is Ignacio García Godoy, and I am currently in the last semester of the Systems Analyst at ORT.
+        During my studies, I have had the opportunity to work with various tools and languages such as Java, HTML, CSS, .NET, SQL, among others. This variety of knowledge has allowed me to develop a solid and              versatile foundation in programming and software development.
+        I consider myself a dedicated and committed individual, both academically and professionally.
+    </p>
+        <p>---------------------------------------------------------------------------------------------------------</p>
+    <p>
+        Mi nombre es Ignacio García Godoy y actualmente estoy en el último semestre de la carrera de Analista de Sistemas en la ORT. Durante mis estudios, he tenido la oportunidad de trabajar con diversas                  herramientas y lenguajes como Java, HTML, CSS, .NET, SQL, entre otros. Esta variedad de conocimientos me ha permitido desarrollar una base sólida y versátil en programación y desarrollo de software. Me             considero una persona dedicada y comprometida, tanto académica como profesionalmente</p>
     </p>
 </div>
 
 <div align="center">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+    <h2 align="center" class="section-heading">🌐 Connect with Me / Conéctate conmigo</h2>
+    <p> 
+        To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software            development and technology. Let's innovate together! 
+    </p>
+    <p>---------------------------------------------------------------------------------------------------------</p>
+    <p>
+        Para conectarte conmigo, puedes encontrar mi perfil profesional y detalles de contacto en LinkedIn. No dudes en comunicarte para colaboraciones, oportunidades o simplemente para intercambiar ideas sobre lo         último en desarrollo de software y tecnología. ¡Innovemos juntos!
+    </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/ignacio-garcia-godoy-425095230/">
     <img src="https://img.shields.io/badge/IgnacioGarciaGodoy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -23,7 +34,13 @@
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
-  <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+  <p>
+      This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous                improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!
+  </p>
+  <p>---------------------------------------------------------------------------------------------------------</p>
+<p>
+    Esta sección destaca mi actividad diaria, mostrando los repositorios en los que actualmente estoy trabajando. Cada commit representa progreso o correcciones en proyectos en curso, reflejando mi compromiso con la mejora continua y el desarrollo colaborativo. ¡Sumérgete en los mensajes de los commits para conocer en qué he estado trabajando!
+</p>
   <img src="https://ghchart.rshah.org/ignaciotobiasgarciagodoy" alt="GitHub Contribution Graph" />
 </div>
 
